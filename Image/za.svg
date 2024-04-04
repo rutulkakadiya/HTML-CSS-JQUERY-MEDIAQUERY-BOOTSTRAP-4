@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #2a2e7c;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        fill: #010101;
+      }
+
+      .cls-4 {
+        fill: #007947;
+      }
+
+      .cls-5 {
+        fill: #e13b2d;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #fdb81b;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-9" cx="11" cy="11" r="11"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-9" x="-3.66" y="0" width="29.32" height="21.99"/>
+    </clipPath>
+  </defs>
+  <g class="cls-8">
+    <g class="cls-7">
+      <g>
+        <path class="cls-3" d="m-3.66,17.52V4.49l9.7,6.51-9.71,6.51h0Z"/>
+        <path class="cls-2" d="m2.96,22l10.89-7.33h15.47v7.32H2.96Z"/>
+        <path class="cls-5" d="m2.26,0h27.06v7.34h-15.47S2.4-.07,2.26,0Z"/>
+        <path class="cls-6" d="m-3.66,2.75v1.74l9.7,6.51-9.71,6.52v1.73l12.22-8.25L-3.66,2.75h0Z"/>
+        <path class="cls-4" d="m-3.66,2.75V0H.42l12.94,8.76h15.97v4.47h-15.97L.42,21.99H-3.66v-2.74l12.21-8.25L-3.66,2.75h0Z"/>
+        <path class="cls-1" d="m.42,0h2.54l10.89,7.33h15.47v1.43h-15.96L.42.01H.42ZM.42,22h2.54l10.89-7.33h15.47v-1.43h-15.96L.42,21.99H.42Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

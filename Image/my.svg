@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #cb2026;
+      }
+
+      .cls-3 {
+        fill: #222160;
+      }
+
+      .cls-4 {
+        fill: #ffcd05;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-7" cx="11" cy="11" r="11"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-7" x="-3.67" width="29.33" height="22"/>
+    </clipPath>
+  </defs>
+  <g class="cls-6">
+    <g class="cls-5">
+      <g>
+        <path class="cls-2" d="m-3.67,0h29.33v22H-3.67V0Z"/>
+        <path class="cls-2" d="m-3.67,0h29.33v1.57H-3.67V0Z"/>
+        <path class="cls-1" d="m-3.67,1.57h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-2" d="m-3.67,3.14h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-1" d="m-3.67,4.72h29.33v1.56H-3.67v-1.56Z"/>
+        <path class="cls-2" d="m-3.67,6.28h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-1" d="m-3.67,7.86h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-2" d="m-3.67,9.43h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-1" d="m-3.67,11h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-2" d="m-3.67,12.57h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-1" d="m-3.67,14.14h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-2" d="m-3.67,15.72h29.33v1.56H-3.67v-1.56Z"/>
+        <path class="cls-1" d="m-3.67,17.28h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-2" d="m-3.67,18.86h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-1" d="m-3.67,20.43h29.33v1.57H-3.67v-1.57Z"/>
+        <path class="cls-3" d="m-3.67.02h14.67v12.57H-3.67V.02Z"/>
+        <path class="cls-4" d="m5.84,3.38l.27,1.87,1.05-1.56-.57,1.8,1.63-.95-1.29,1.38,1.88-.15-1.76.68,1.76.68-1.88-.15,1.29,1.38-1.63-.95.56,1.8-1.05-1.56-.27,1.87-.27-1.87-1.05,1.56.57-1.8-1.63.95,1.28-1.38-1.88.15,1.76-.68-1.76-.68,1.88.15-1.29-1.38,1.63.95-.57-1.8,1.05,1.56.27-1.87h0Zm-1.53.08c-1.64-.73-3.57,0-4.3,1.65-.19.42-.28.87-.28,1.33,0,1.8,1.46,3.26,3.26,3.26.46,0,.91-.1,1.33-.28-1.12.8-2.59.91-3.81.28-1.22-.63-1.99-1.89-1.99-3.26,0-2.03,1.64-3.67,3.67-3.67.77,0,1.51.24,2.13.69Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
